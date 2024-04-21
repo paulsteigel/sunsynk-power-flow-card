@@ -10,6 +10,7 @@ import * as cs from './languages/cs.json';
 import * as it from './languages/it.json';
 import * as ca from './languages/ca.json';
 import * as sk from './languages/sk.json';
+import * as vi from './languages/vi.json';
 import * as pt_br from './languages/pt-br.json';
 import {globalData} from '../helpers/globals';
 
@@ -26,6 +27,7 @@ const languages: any = {
     it: it,
     ca: ca,
     sk: sk,
+    vi: vi,
     pt_BR: pt_br,
 };
 
